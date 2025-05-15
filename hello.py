@@ -7,5 +7,7 @@ x = 100
 print(x+10)
 
 #syncing remote and loacal repository
-#
+
+#pushing from local repo to remote repo
+print("hello remote repo")
 
